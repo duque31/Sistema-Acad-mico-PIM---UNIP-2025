@@ -1,0 +1,37 @@
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# === IDEs / Editores ===
+.vscode/
+.idea/
+*.code-workspace
+
+# === Sistema ===
+.DS_Store
+Thumbs.db
+
+# === Ambientes virtuais ===
+venv/
+env/
+*.env
+
+# === Arquivos temporários ===
+*.tmp
+*.bak
+
+# === JSON de dados do programa ===
+dados.json
+
+# === Biblioteca C compilada ===
+c_modules/*.dll
+c_modules/*.o
+c_modules/*.so
+
+# === Relatórios ou PDFs gerados ===
+*.pdf
+*.docx
+*.xlsx
