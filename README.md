@@ -35,11 +35,11 @@ O sistema permite cadastrar alunos, calcular médias usando um módulo em **C**,
 
 | Tecnologia |Descrição |
 
-| 🐍Python 3.11  | Linguagem principal 
-| 💽C (MinGW)    | Cálculo de média via DLL 
-| 🪟Tkinter      | Interface gráfica 
-| 📦JSON / TXT   | Armazenamento e relatórios 
-| 🧠IA (Regras simples) | Geração de feedback inteligente 
+| 🐍Python 3.11  - Linguagem principal |
+| 💽C (MinGW)    - Cálculo de média via DLL |
+| 🪟Tkinter      - Interface gráfica |
+| 📦JSON / TXT   - Armazenamento e relatórios |
+| 🧠IA (Regras simples) - Geração de feedback inteligente |
 
 ---
 
