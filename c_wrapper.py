@@ -11,7 +11,7 @@ import ctypes
 
 # === Carregamento da biblioteca C ===
 # Caminho absoluto do arquivo DLL gerado pelo código C.
-lib = ctypes.CDLL("C:\\Users\\gabri\\OneDrive\\Desktop\\PROJETO PIM 2.0\\c_modules\\avg.dll")
+lib = ctypes.CDLL("C:\\c_modules\\avg.dll")
 
 # === Definição dos tipos de parâmetros e retorno ===
 # Função calcular_media: recebe vetor de floats e um inteiro (tamanho), retorna float.
